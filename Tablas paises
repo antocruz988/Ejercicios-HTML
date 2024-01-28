@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf=8">
+       <title>Tablas de países</title>
+    </head>
+    <body>
+        <h1 style="font size:15px">Exercise 2.3</h1>
+        <h1 style="background color:red">Tablas de países</h1>
+        <h1 style="color:blue">Ejemplos</h1>
+        <p>Algunos países con sus respectivas capitales</p>
+
+        <i>Realizado por: Antonio de la Cruz Fernández</i>
+
+        <table>
+            <caption>Algunos países de Europa</caption>
+            <tr>
+                <td>Alemania</td>
+                <td>Berlín</td>
+            </tr>
+            <tr>
+                <td>Suiza</td>
+                <td>Berna</td>
+            </tr>
+        </table>
+
+        <table>
+            <caption>Algunos países de Asia</caption>
+            <tr>
+                <td>China</td>
+                <td>Pekín</td>
+            </tr>
+            <tr>
+                <td>Japón</td>
+                <td>Tokyo</td>
+            </tr>
+        </table>
+    </body>
+</html>
